@@ -1,0 +1,8 @@
+{
+  "name": "Nihongo News — Học Tiếng Nhật Qua Tin Tức",
+  "description": "Nền tảng học tiếng Nhật qua tin tức từ N5 đến N1 dành cho người Việt với Furigana, dịch song ngữ, âm thanh, AI Sensei, Flashcard và JLPT Dokkai Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
